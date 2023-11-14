@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HEALTH NEWS!!!!!!!!!!!!!</string>
+    <string name="api_key">69418a59f60b4861b26ca700757532c1</string>
+    <!--    это типа код Api, который у каждого свой для подключения этого самого API -->
+</resources>
